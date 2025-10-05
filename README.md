@@ -1,4 +1,4 @@
- 
+   
 
 ---
 
@@ -19,7 +19,7 @@ You can download the latest APK here:
 * 🌍 Search weather by city name
 * 🌡 Real-time temperature, humidity, and wind speed
 * 🌅 Sunrise & sunset times
-* 📊 Sea-level pressure information
+* 📊 Sea-level pressure information 
 * 🎨 Dynamic weather animations (Lottie)
 * 📅 Current date and day display
 * 📱 Simple & clean UI with responsive design
