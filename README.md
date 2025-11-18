@@ -5,7 +5,7 @@
 # 🌦 Weather App
 
 A simple, modern, and responsive Android weather application built using **Kotlin**, **Retrofit**, and the **OpenWeatherMap API**.
-It allows users to search for any city and view real-time weather updates including temperature, humidity, wind speed, sunrise/sunset times, and more — with dynamic background animations based on weather conditions.
+It allows users to search for any city and view real-time weather updates including temperature, humidity, wind speed, sunrise/sunset times, and more — with dynamic background animations based on weather conditions. 
 
 ## 📱 Download & Install
 
